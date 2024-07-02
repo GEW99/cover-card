@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'George Wilson'
+description: 'Positively underwhelming.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,13 +12,13 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+facebook: 'George Wilson'
+#twitter: 'mytwitter'
+linkedin: 'George Wilson'
+#instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+youtube: 'TheDerpyDragon9'
+github-user: 'GEW99'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,12 +28,12 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+email: 'georgeewilson99@gmail.com'
+#messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
@@ -58,14 +58,14 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - **optional**
 social-links:
   - name: facebook
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: facebook.com/george.wilson.754918
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: linkedin.com/in/george-wilson-5884901b3
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -86,7 +86,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/GEW99
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
